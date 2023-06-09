@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
-
+#include "funciones.h"
 using namespace std;
 
 int main() {
@@ -19,16 +19,16 @@ int main() {
 
         switch (opcion) {
             case 1:
-                ///Modo un jugador:
+                jugarModoUnJugador();
                 break;
             case 2:
-                ///Modo dos jugadores:
+                ///Modo dos jugadores
                 break;
             case 3:
-                ///Funcionalidad de puntuacion maxima
+                /// funcionalidad de puntuacion maxima
                 break;
             case 4:
-                cout << "Game Over!" << endl;
+                cout << "¡Game Over!" << endl;
                 break;
             default:
                 cout << "Opcion no valida. Por favor, ingrese una opcion valida." << endl;

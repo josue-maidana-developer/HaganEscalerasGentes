@@ -1,6 +1,25 @@
 # depslib dependency file v1.0
-1686301424 source:c:\users\josue\desktop\haganescalerasgentes\escalera\main.cpp
+1686059366 source:c:\users\josue\onedrive\escritorio\escalera\funciones.cpp
 	<iostream>
 	<cstdlib>
 	<ctime>
+	"funciones.h"
+
+1686058338 c:\users\josue\onedrive\escritorio\escalera\funciones.h
+	<string>
+
+1686058364 source:c:\users\josue\onedrive\escritorio\escalera\escalera.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1686059366 source:c:\users\josue\desktop\haganescalerasgentes\escalera\funciones.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1686058338 c:\users\josue\desktop\haganescalerasgentes\escalera\funciones.h
+	<string>
 
