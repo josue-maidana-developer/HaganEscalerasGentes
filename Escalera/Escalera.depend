@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1686301424 source:c:\users\josue\desktop\haganescalerasgentes\escalera\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
